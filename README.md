@@ -1,7 +1,6 @@
 # ISO2-BC06-LAB
 
 # Participantes:
-
 Javier de la Concecpción Dorado 
 David Alegre López de la Franca 
 Juan de Dios Carrera
